@@ -1,0 +1,44 @@
+.ms-hero-container{
+    width: 100%;
+    height: 31.25rem;
+}
+
+.ms-products{
+    position: relative;
+    width: 100%;
+    background-color: #1c1c1c;
+}
+
+.ms-current-series{
+    position: absolute;
+    top: -2%;
+    left: 15%;
+    color: white;
+    background-color: #0282f9;
+    padding: .3125rem .625rem;
+}
+
+.ms-bonus{
+    color: white;
+    background-color: #0282f9;
+}
+
+.ms-bonus-img{
+    width: 25%;
+}
+
+.ms-card-title{
+    color: white;
+    font-size: .75rem;
+}
+
+.ms-load-btn{
+    color: white;
+    background-color: #0282f9;
+    padding: .3125rem .625rem;
+    border: none;
+}
+
+// .ms-hero-container{
+//     background-image: url(../../img/jumbotron.jpg);
+// }

@@ -1,0 +1,22 @@
+.ms-header-container{
+    color: white;
+    background-color: #0282f9;
+}
+
+.ms-header-t-text{
+    font-size: .9375rem;
+}
+
+.header-link{
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+
+    &--active{
+        color: #0282f9;
+        text-decoration: none;
+        padding-bottom: 1.875rem;
+        border-bottom: .3125rem solid #0282f9;
+    }
+
+}
